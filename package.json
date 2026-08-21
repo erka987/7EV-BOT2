@@ -1,0 +1,19 @@
+{
+  "name": "doscordbot",
+  "version": "1.0.0",
+  "main": "indexs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "@discordjs/voice": "^0.17.0",
+    "@distube/ytdl-core": "^4.16.12",
+    "discord.js": "^14.27.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
